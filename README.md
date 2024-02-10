@@ -13,4 +13,8 @@ This project is a golden-level project at CodeClause
                               Link Expiry page page
 
  ![3](https://github.com/Anubhav-dev-web/File_Sharing_app/assets/80172002/d5de3691-a799-4bfe-a4f7-08ed9c2f365d)
+
+
+ All content and code included in this file-sharing web application were developed by me (Anubhav Verma)  during my
+ internship at codeClause
               
