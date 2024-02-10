@@ -1,6 +1,6 @@
                                                             First look at the project
                                                             
-This project I a golden-level project at CodeClause                                             
+This project is a golden-level project at CodeClause                                             
                                              
                                 Home page
 
