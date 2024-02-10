@@ -1,0 +1,5 @@
+.env
+uploads/*
+!uploads/.gitkeep
+node_modules
+MyNotes_For_this_project.txt

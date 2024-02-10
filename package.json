@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "scripts": {
+    "devStart": "nodemon serever.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "tailwindcss": "^3.4.1"
+  }
+}
