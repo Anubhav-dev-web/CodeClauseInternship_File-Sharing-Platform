@@ -1,4 +1,4 @@
-<h1File sharing system</h1>
+<h1>File sharing system</h1>
 
 <p>Welcome to the File Share Web App repository! This web application allows users to securely share files of any type with others. Built with Node.js, Express.js, EJS, Tailwind CSS, and MongoDB, it offers features like password protection for shared links and the ability to set an expiry date and time for the links.
 </P>
