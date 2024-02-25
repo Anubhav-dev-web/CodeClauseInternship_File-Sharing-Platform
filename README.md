@@ -23,7 +23,7 @@
 <h2>Geting started</h2>
 
 ```
-git clone [https://github.com/yourusername/File-Sharing_platform.git](https://github.com/Anubhav-dev-web/CodeClauseInternship_File-Sharing-Platform.git)
+git clone https://github.com/Anubhav-dev-web/CodeClauseInternship_File-Sharing-Platform.git
 ```
 ```
 cd File-Sharing_platform
