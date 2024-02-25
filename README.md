@@ -23,10 +23,10 @@
 <h2>Geting started</h2>
 
 ```
-git clone https://github.com/yourusername/music-player.git
+git clone https://github.com/yourusername/File-Sharing_platform.git
 ```
 ```
-cd file-share-web-app
+cd File-Sharing_platform
 
 ```
 ```
